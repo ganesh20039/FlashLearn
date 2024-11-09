@@ -1,0 +1,29 @@
+<!-- activity_flashcard_view.xml -->
+<TextView
+    android:id="@+id/tvQuestion"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Question"
+    android:textSize="20sp"
+    android:gravity="center"/>
+
+<TextView
+android:id="@+id/tvAnswer"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="Answer"
+android:textSize="20sp"
+android:gravity="center"
+android:visibility="gone"/>
+
+<Button
+android:id="@+id/btnShuffle"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Shuffle"/>
+
+<Button
+android:id="@+id/btnMarkKnown"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Mark as Known"/>

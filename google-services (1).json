@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673628720135",
+    "project_id": "flashlearn-ccbd0",
+    "storage_bucket": "flashlearn-ccbd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673628720135:android:29ce93b3839906c850aea2",
+        "android_client_info": {
+          "package_name": "com.example.amrita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03IDQmsNddfs-d-D5volo_IcGb_tIt5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
